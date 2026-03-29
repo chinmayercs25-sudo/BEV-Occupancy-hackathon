@@ -26,3 +26,6 @@ Inspired by Fast Occupancy Network (Lu et al., 2024)
 ## How to run
 Open `bev_occupancy.ipynb` in Google Colab with a T4 GPU.
 Dataset: nuScenes mini — place at `/content/nuscenes/`
+
+## model weights link
+https://drive.google.com/file/d/1Wd6sh73cZa_x_Z7fkYnctq-GpZpqQgW8/view?usp=drive_link
