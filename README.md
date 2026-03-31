@@ -21,8 +21,7 @@ This project implements a multi-camera BEV occupancy prediction system using the
 | Distance-weighted Error | 106.97 ± 6.88 |
 | Training samples | 323 (nuScenes mini) |
 
-Our model achieves 19.69% IoU using only 404 samples, compared to ~21% reported in literature using 700 samples. 
-This demonstrates competitive performance despite significantly reduced training data.
+### Our model achieves 19.69% IoU using only 404 samples, compared to ~21% reported in literature using 700 samples. This demonstrates competitive performance despite significantly reduced training data.
 ---
 
 ## Model Architecture
