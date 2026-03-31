@@ -167,7 +167,7 @@ model.eval()
 # Then run the evaluation and render_full_output section at the bottom
 ```
 
-**Pretrained weights:** [Download bev_final.pth from Google Drive](YOUR_DRIVE_LINK_HERE)
+**Pretrained weights:** [Download bev_final.pth from Google Drive](https://drive.google.com/file/d/1Wd6sh73cZa_x_Z7fkYnctq-GpZpqQgW8/view?usp=drive_link)
 
 ### Training time (T4 GPU)
 
